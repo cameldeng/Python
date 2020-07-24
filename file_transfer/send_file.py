@@ -1,6 +1,5 @@
 """
 Test differential for Phabricator
-author: Camel deng
 """
 if __name__ == "__main__":
     import socket  # Import socket module
