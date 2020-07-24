@@ -1,3 +1,6 @@
+"""
+Test differential for Phabricator
+"""
 if __name__ == "__main__":
     import socket  # Import socket module
 
