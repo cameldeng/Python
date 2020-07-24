@@ -5,6 +5,7 @@ Requirements:
   - matplotlib
 Python:
   - 3.5
+Test for Phabricator
 """
 import numpy as np
 import skfuzzy as fuzz
