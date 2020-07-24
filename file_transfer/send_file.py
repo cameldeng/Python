@@ -1,6 +1,7 @@
 """
 Test differential for Phabricator
 add Author Camel
+已经修复命名规范
 """
 if __name__ == "__main__":
     import socket  # Import socket module
